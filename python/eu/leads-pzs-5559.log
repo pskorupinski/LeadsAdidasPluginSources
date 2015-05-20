@@ -1,0 +1,47 @@
+2015-04-24 22:54:16,358 - DEBUG - pzs - I: Echo service is ready at tcp://127.0.0.1:5559
+2015-04-24 22:54:16,358 - DEBUG - pzs - In the loop
+2015-04-26 17:34:07,174 - DEBUG - pzs - module name: eu.leads.infext.python.CLAPI.getpublishdate_AP
+2015-04-26 17:34:07,174 - DEBUG - pzs - input params: ['file:/tmp/leadsjavapy-150426173407121223', 'com.runblogger:http/2011/06/vibram-fivefingers-komodosport-review.html']
+2015-04-26 17:34:07,194 - DEBUG - getpublishdate_AP - [2011, 6, 1]
+2015-04-26 17:34:07,195 - DEBUG - pzs - [2011, 6, 1]
+2015-04-26 17:34:07,215 - DEBUG - pzs - In the loop
+2015-04-27 23:25:27,704 - DEBUG - pzs - module name: Hello
+2015-04-27 23:25:27,709 - DEBUG - pzs - input params: []
+2015-04-27 23:25:27,728 - DEBUG - pzs - UNEXPECTED EXCEPTION in the main module: Traceback (most recent call last):
+  File "/leads/workm30/leads-query-processor/nqe/system-plugins/adidas-processing-plugin/src/main/python/eu/leads/infext/python/CLAPI/pzs.py", line 91, in <module>
+    paramstr = str([text for text in msg[1:]])
+  File "/leads/workm30/leads-query-processor/nqe/system-plugins/adidas-processing-plugin/src/main/python/eu/leads/infext/python/CLAPI/conversionmethods.py", line 31, in translateInputParameters
+    if params[0].startswith("paramsfile:"):
+IndexError: list index out of range
+
+2015-04-27 23:25:27,728 - DEBUG - pzs - finishing
+2015-04-27 23:25:27,728 - DEBUG - pzs - finishing
+2015-04-28 18:52:55,819 - DEBUG - pzs - I: Echo service is ready at tcp://127.0.0.1:5559
+2015-04-28 18:52:55,832 - DEBUG - pzs - In the loop
+2015-04-28 19:00:22,167 - DEBUG - pzs - module name: eu.leads.infext.python.CLAPI.getpublishdate_AP
+2015-04-28 19:00:22,168 - DEBUG - pzs - input params: ['file:/tmp/leadsjavapy-150428190022135426', 'com.runblogger:http/2011/06/vibram-fivefingers-komodosport-review.html']
+2015-04-28 19:00:22,220 - DEBUG - getpublishdate_AP - [2011, 6, 1]
+2015-04-28 19:00:22,221 - DEBUG - pzs - [2011, 6, 1]
+2015-04-28 19:00:22,221 - DEBUG - pzs - In the loop
+2015-04-28 19:34:37,150 - DEBUG - pzs - module name: eu.leads.infext.python.CLAPI.getpublishdate_AP
+2015-04-28 19:34:37,150 - DEBUG - pzs - input params: ['file:/tmp/leadsjavapy-150428193437114884', 'com.runblogger:http/2011/06/vibram-fivefingers-komodosport-review.html']
+2015-04-28 19:34:37,155 - DEBUG - getpublishdate_AP - [2011, 6, 1]
+2015-04-28 19:34:37,156 - DEBUG - pzs - [2011, 6, 1]
+2015-04-28 19:34:37,157 - DEBUG - pzs - In the loop
+2015-04-28 19:44:22,805 - DEBUG - pzs - module name: eu.leads.infext.python.CLAPI.getpublishdate_AP
+2015-04-28 19:44:22,805 - DEBUG - pzs - input params: ['file:/tmp/leadsjavapy-150428194422781233', 'com.runblogger:http/2011/06/vibram-fivefingers-komodosport-review.html']
+2015-04-28 19:44:22,812 - DEBUG - getpublishdate_AP - [2011, 6, 1]
+2015-04-28 19:44:22,813 - DEBUG - pzs - [2011, 6, 1]
+2015-04-28 19:44:22,814 - DEBUG - pzs - In the loop
+2015-04-28 20:13:18,639 - DEBUG - pzs - module name: eu.leads.infext.python.CLAPI.getpublishdate_AP
+2015-04-28 20:13:18,640 - DEBUG - pzs - input params: ['file:/tmp/leadsjavapy-150428201318606123', 'com.runblogger:http/2011/06/vibram-fivefingers-komodosport-review.html']
+2015-04-28 20:13:18,664 - DEBUG - getpublishdate_AP - [2011, 6, 1]
+2015-04-28 20:13:18,664 - DEBUG - pzs - [2011, 6, 1]
+2015-04-28 20:13:18,665 - DEBUG - pzs - In the loop
+2015-04-28 23:05:02,162 - DEBUG - pzs - module name: eu.leads.infext.python.CLAPI.getpublishdate_AP
+2015-04-28 23:05:02,162 - DEBUG - pzs - input params: ['file:/tmp/leadsjavapy-150428230502072864', 'com.runblogger:http/2011/06/vibram-fivefingers-komodosport-review.html']
+2015-04-28 23:05:02,168 - DEBUG - getpublishdate_AP - [2011, 6, 1]
+2015-04-28 23:05:02,168 - DEBUG - pzs - [2011, 6, 1]
+2015-04-28 23:05:02,169 - DEBUG - pzs - In the loop
+2015-04-30 11:07:29,860 - DEBUG - pzs - I: Echo service is ready at tcp://127.0.0.1:5559
+2015-04-30 11:07:29,894 - DEBUG - pzs - In the loop

@@ -1,0 +1,30 @@
+2015-04-24 22:54:16,358 - DEBUG - pzs - I: Echo service is ready at tcp://127.0.0.1:5560
+2015-04-24 22:54:16,358 - DEBUG - pzs - In the loop
+2015-04-24 22:56:05,356 - DEBUG - pzs - module name: eu.leads.infext.python.CLAPI.getpublishdate_AP
+2015-04-24 22:56:05,356 - DEBUG - pzs - input params: ['file:/tmp/leadsjavapy-150424225605215370', 'com.runblogger:http/2011/06/vibram-fivefingers-komodosport-review.html']
+2015-04-24 22:56:05,393 - DEBUG - getpublishdate_AP - [2011, 6, 1]
+2015-04-24 22:56:05,394 - DEBUG - pzs - [2011, 6, 1]
+2015-04-24 22:56:05,395 - DEBUG - pzs - In the loop
+2015-04-25 17:16:22,475 - DEBUG - pzs - module name: eu.leads.infext.python.CLAPI.getpublishdate_AP
+2015-04-25 17:16:22,475 - DEBUG - pzs - input params: ['file:/tmp/leadsjavapy-150425171622456135', 'com.runblogger:http/minimalist-running']
+2015-04-25 17:16:22,480 - DEBUG - getpublishdate_AP - []
+2015-04-25 17:16:22,480 - DEBUG - pzs - []
+2015-04-25 17:16:22,481 - DEBUG - pzs - In the loop
+2015-04-25 17:18:24,771 - DEBUG - pzs - module name: eu.leads.infext.python.CLAPI.getpublishdate_AP
+2015-04-25 17:18:24,771 - DEBUG - pzs - input params: ['file:/tmp/leadsjavapy-150425171824746437', 'com.runblogger:http/minimalist-running']
+2015-04-25 17:18:24,776 - DEBUG - getpublishdate_AP - []
+2015-04-25 17:18:24,776 - DEBUG - pzs - []
+2015-04-25 17:18:24,777 - DEBUG - pzs - In the loop
+2015-04-27 23:27:51,843 - DEBUG - pzs - module name: Hello
+2015-04-27 23:27:51,844 - DEBUG - pzs - input params: []
+2015-04-27 23:27:51,845 - DEBUG - pzs - UNEXPECTED EXCEPTION in the main module: Traceback (most recent call last):
+  File "/leads/workm30/leads-query-processor/nqe/system-plugins/adidas-processing-plugin/src/main/python/eu/leads/infext/python/CLAPI/pzs.py", line 91, in <module>
+    paramstr = str([text for text in msg[1:]])
+  File "/leads/workm30/leads-query-processor/nqe/system-plugins/adidas-processing-plugin/src/main/python/eu/leads/infext/python/CLAPI/conversionmethods.py", line 31, in translateInputParameters
+    if params[0].startswith("paramsfile:"):
+IndexError: list index out of range
+
+2015-04-27 23:27:51,845 - DEBUG - pzs - finishing
+2015-04-27 23:27:51,845 - DEBUG - pzs - finishing
+2015-04-30 11:07:29,860 - DEBUG - pzs - I: Echo service is ready at tcp://127.0.0.1:5560
+2015-04-30 11:07:29,894 - DEBUG - pzs - In the loop
